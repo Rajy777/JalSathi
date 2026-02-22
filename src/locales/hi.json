@@ -1,0 +1,29 @@
+{
+    "app_name": "जलसाथी",
+    "welcome": "जलसाथी में आपका स्वागत है",
+    "tagline": "आपका स्मार्ट सिंचाई साथी",
+    "get_started": "शुरू करें",
+    "onboarding": {
+        "step_1_title": "भाषा चुनें",
+        "step_2_title": "आपकी प्रोफाइल",
+        "farmer_name": "पूरा नाम",
+        "district": "जिला",
+        "crop": "वर्तमान फसल",
+        "soil": "मिट्टी का प्रकार",
+        "land_size": "भूमि का आकार (एकड़)",
+        "irrigation": "सिंचाई का प्रकार",
+        "finish": "सहेजें और डैशबोर्ड पर जाएं"
+    },
+    "dashboard": {
+        "weather": "आज का मौसम",
+        "irrigation_plan": "इस सप्ताह की सिंचाई",
+        "schemes": "पात्र योजनाएं",
+        "alerts": "सूचनाएं"
+    },
+    "crops": {
+        "cotton": "कपास",
+        "wheat": "गेहूं",
+        "rice": "चावल",
+        "sugarcane": "गन्ना"
+    }
+}

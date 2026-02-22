@@ -1,0 +1,29 @@
+{
+    "app_name": "jalSathi",
+    "welcome": "Welcome to jalSathi",
+    "tagline": "Your Smart Irrigation Partner",
+    "get_started": "Get Started",
+    "onboarding": {
+        "step_1_title": "Select Language",
+        "step_2_title": "Your Profile",
+        "farmer_name": "Full Name",
+        "district": "District",
+        "crop": "Current Crop",
+        "soil": "Soil Type",
+        "land_size": "Land size (acres)",
+        "irrigation": "Irrigation Type",
+        "finish": "Save & Go to Dashboard"
+    },
+    "dashboard": {
+        "weather": "Weather Today",
+        "irrigation_plan": "Irrigation This Week",
+        "schemes": "Eligible Schemes",
+        "alerts": "Alerts"
+    },
+    "crops": {
+        "cotton": "Cotton",
+        "wheat": "Wheat",
+        "rice": "Rice",
+        "sugarcane": "Sugarcane"
+    }
+}
